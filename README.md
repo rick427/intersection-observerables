@@ -1,0 +1,1 @@
+A small project about intersction observers, what they are, and what they can do without the use of third party libraries to handle that.
